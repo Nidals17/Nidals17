@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nidal</h1>
-<h3 align="center">Master 2 Data Science Student at the university of Strasbourg</h3>
+<h3 align="center">Master 2 Data Science Student at the University of Strasbourg</h3>
 
 
 
