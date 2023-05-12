@@ -21,9 +21,10 @@
 
 ![](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/scikit-013243.svg?logo=scikit&logoColor=white)
+![](https://img.shields.io/badge/scikitLearn-013243.svg?logo=scikit&logoColor=white)
 ![](https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/Tensorflow-%20-orange)
 ![](https://img.shields.io/badge/Dplyr-FF4B4B.svg?logo=dplyr&logoColor=white)
 ![](https://img.shields.io/badge/Shiny-013243.svg?logo=shiny&logoColor=white)
 ![](https://img.shields.io/badge/Ggplot-150458.svg?logo=ggplot&logoColor=white)
