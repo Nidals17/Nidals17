@@ -8,8 +8,9 @@ My projects range from churn prediction using classification models to large-sca
 
 ## :satellite: Connect with me:
 - **Email:** nidal.souk@hotmail.com
-- **LinkedIn:** [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/nidal-souk-476882225/)
-
+- **LinkedIn:** <a href="https://www.linkedin.com/in/nidal-souk-476882225/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20" />
+</a>
 ## What I am looking for :
 
 Driven by curiosity and continuous learning, I am actively seeking opportunities to apply my data science and engineering skills in a dynamic professional setting where I can contribute to meaningful projects, grow my expertise, and advance my career.
