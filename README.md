@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Nidal](https://www.linkedin.com/in/nidal-souk-476882225/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/nidal-souk-476882225/" target="_blank" rel="noopener noreferrer">Nidal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <h3 align="center">Data Science Master Graduate from the University of Strasbourg</h3>
 
 ## About Me:
